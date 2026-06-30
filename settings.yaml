@@ -1,0 +1,11 @@
+# 应用设置
+app:
+  name: git-demo
+  debug: true
+  language: zh-CN
+
+# 功能开关
+features:
+  dark_mode: true
+  notifications: false
+  auto_save: true

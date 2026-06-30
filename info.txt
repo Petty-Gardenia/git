@@ -1,0 +1,15 @@
+Git 示例项目说明
+===================
+
+这个项目用于演示 Git 的基本操作和 .gitignore 的用法。
+
+文件清单：
+├── main.py         Python 入口
+├── app.js          Node.js 服务器
+├── index.html      前端页面
+├── style.css       样式表
+├── config.json     JSON 配置
+├── settings.yaml   YAML 配置
+├── README.md       项目说明
+├── info.txt        本文件
+└── .gitignore      忽略规则
